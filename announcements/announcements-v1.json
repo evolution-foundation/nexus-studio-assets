@@ -2,6 +2,15 @@
   "version": 1,
   "announcements": [
     {
+      "id": "release-0-0-1-5",
+      "title": "What is new in 0.0.1-5",
+      "body": "Work in two projects at once and neither goes quiet, an agent's findings become cards you can see, and the light theme is readable. A notification now makes a sound, which you can turn off.",
+      "published": "2026-08-13",
+      "priority": 85,
+      "minVersion": "0.0.1-5",
+      "link": "https://nexus.evolutionfoundation.com.br"
+    },
+    {
       "id": "release-0-0-1-4",
       "title": "What is new in 0.0.1-4",
       "body": "Screenshots go into the project now: paste one where you are working, in a chat, an issue or a document. The message box also stays open while an agent runs, so what you type waits its turn instead of being lost.",
