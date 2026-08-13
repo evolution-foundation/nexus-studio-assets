@@ -3,11 +3,11 @@
   "announcements": [
     {
       "id": "release-0-0-1-3",
-      "title": "0.0.1-3 is out, and Codex works again",
-      "body": "Choosing Codex asked for a model it no longer has, so the run failed on its first turn. The models offered are the ones Codex actually has today. Linux gets automatic updates for the first time. A project no longer shows the runs of the one you had open before it, the Docs list appears as the agent writes it, and a note written for the agent stops being read as the document's first line.",
+      "title": "What is new in 0.0.1-3",
+      "body": "Codex works again: it was asking for a model it no longer has, so the run failed on its first turn. It now offers the models Codex actually has today. Linux receives automatic updates for the first time. A project no longer shows the runs of the one you had open before it, the Docs list fills in as the agent writes, and a note left for the agent stops being read as the document's first line.",
       "published": "2026-08-13",
       "priority": 80,
-      "maxVersion": "0.0.1-2",
+      "minVersion": "0.0.1-3",
       "link": "https://nexus.evolutionfoundation.com.br"
     },
     {
