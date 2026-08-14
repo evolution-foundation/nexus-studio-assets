@@ -2,6 +2,15 @@
   "version": 1,
   "announcements": [
     {
+      "id": "release-0-0-1-6",
+      "title": "What is new in 0.0.1-6",
+      "body": "The terminal opens your own, in the project folder, on every platform. Windows stops flashing black boxes and wears the right icon, and the Architecture column is gone from the board.",
+      "published": "2026-08-13",
+      "priority": 86,
+      "minVersion": "0.0.1-6",
+      "link": "https://nexus.evolutionfoundation.com.br"
+    },
+    {
       "id": "release-0-0-1-5",
       "title": "What is new in 0.0.1-5",
       "body": "Work in two projects at once and neither goes quiet, an agent's findings become cards you can see, and the light theme is readable. A notification now makes a sound, which you can turn off.",
