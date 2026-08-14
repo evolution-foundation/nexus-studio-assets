@@ -2,6 +2,15 @@
   "version": 1,
   "announcements": [
     {
+      "id": "release-0-0-1-7",
+      "title": "What is new in 0.0.1-7",
+      "body": "See what your agents changed without leaving the app: the files, the diff, the history, and a commit you make yourself with a message Gil writes from the diff. Gil is the tenth agent. Two dashboards say where a project stands and which project needs you, an agent can draw you a mock before the work starts, and the method now follows the app when it updates.",
+      "published": "2026-08-14",
+      "priority": 87,
+      "minVersion": "0.0.1-7",
+      "link": "https://nexus.evolutionfoundation.com.br"
+    },
+    {
       "id": "release-0-0-1-6",
       "title": "What is new in 0.0.1-6",
       "body": "The terminal opens your own, in the project folder, on every platform. Windows stops flashing black boxes and wears the right icon, and the Architecture column is gone from the board.",
