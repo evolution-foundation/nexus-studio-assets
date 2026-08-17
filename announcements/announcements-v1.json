@@ -2,6 +2,16 @@
   "version": 1,
   "announcements": [
     {
+      "id": "live-coding-guiado",
+      "title": "Live Coding: desenvolvendo com IA de forma guiada",
+      "body": "Nesta call vamos desenvolver uma funcionalidade ao vivo no Nexus Studio: estruturar a ideia, criar as specs, organizar as tasks e guiar os agents durante todo o desenvolvimento. Na pratica, como manter contexto, arquitetura e controle sobre o codigo, sem depender de prompts soltos nem deixar a IA decidir tudo sozinha.",
+      "published": "2026-08-17",
+      "priority": 95,
+      "link": "https://portal.evolutionfoundation.com.br/",
+      "image": "media/live-coding-guiado.png",
+      "imageAlt": "Live Coding: desenvolvendo com IA de forma guiada, com o board do Nexus Studio"
+    },
+    {
       "id": "release-0-0-1-8",
       "title": "What is new in 0.0.1-8",
       "body": "A finished piece of development stops being reported as nothing. UX design draws the screens instead of only describing them, a workflow's choices arrive as buttons, an agent may no longer decide nobody is watching, and updating from the Debian package works.",
