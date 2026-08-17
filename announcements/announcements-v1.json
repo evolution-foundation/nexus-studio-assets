@@ -2,6 +2,15 @@
   "version": 1,
   "announcements": [
     {
+      "id": "release-0-0-1-8",
+      "title": "What is new in 0.0.1-8",
+      "body": "A finished piece of development stops being reported as nothing. UX design draws the screens instead of only describing them, a workflow's choices arrive as buttons, an agent may no longer decide nobody is watching, and updating from the Debian package works.",
+      "published": "2026-08-17",
+      "priority": 88,
+      "minVersion": "0.0.1-8",
+      "link": "https://nexus.evolutionfoundation.com.br"
+    },
+    {
       "id": "release-0-0-1-7",
       "title": "What is new in 0.0.1-7",
       "body": "See what your agents changed without leaving the app: the files, the diff, the history, and a commit you make yourself with a message Gil writes from the diff. Gil is the tenth agent. Two dashboards say where a project stands and which project needs you, an agent can draw you a mock before the work starts, and the method now follows the app when it updates.",
