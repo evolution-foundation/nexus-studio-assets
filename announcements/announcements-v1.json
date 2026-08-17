@@ -2,6 +2,15 @@
   "version": 1,
   "announcements": [
     {
+      "id": "release-0-0-2",
+      "title": "What is new in 0.0.2",
+      "body": "The whole app speaks your language. Every screen, every menu and every warning is now in English, Portuguese or Spanish, chosen once and remembered. Technical words stay as they are, because an issue is called an issue wherever you work.",
+      "published": "2026-08-17",
+      "priority": 89,
+      "minVersion": "0.0.2",
+      "link": "https://nexus.evolutionfoundation.com.br"
+    },
+    {
       "id": "live-coding-guiado",
       "title": "Live Coding: desenvolvendo com IA de forma guiada",
       "body": "Nesta call vamos desenvolver uma funcionalidade ao vivo no Nexus Studio: estruturar a ideia, criar as specs, organizar as tasks e guiar os agents durante todo o desenvolvimento. Na pratica, como manter contexto, arquitetura e controle sobre o codigo, sem depender de prompts soltos nem deixar a IA decidir tudo sozinha.",
