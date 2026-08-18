@@ -2,6 +2,15 @@
   "version": 1,
   "announcements": [
     {
+      "id": "release-0-0-2-1",
+      "title": "What is new in 0.0.2-1",
+      "body": "What an agent writes appears while you watch it. An issue, its comments and its specs refresh as the files change, instead of only when you close the page and open it again.",
+      "published": "2026-08-18",
+      "priority": 90,
+      "minVersion": "0.0.2-1",
+      "link": "https://nexus.evolutionfoundation.com.br"
+    },
+    {
       "id": "release-0-0-2",
       "title": "What is new in 0.0.2",
       "body": "The whole app speaks your language. Every screen, every menu and every warning is now in English, Portuguese or Spanish, chosen once and remembered. Technical words stay as they are, because an issue is called an issue wherever you work.",
