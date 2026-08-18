@@ -2,6 +2,15 @@
   "version": 1,
   "announcements": [
     {
+      "id": "release-0-0-4",
+      "title": "What is new in 0.0.4",
+      "body": "A card now carries only the guidance its stage needs, instead of the whole method, and the screen names what was left out. What a run costs is stated for Codex too, because the tier is stored as intent rather than as a model name one engine has never heard of.",
+      "published": "2026-08-18",
+      "priority": 91,
+      "minVersion": "0.0.4",
+      "link": "https://nexus.evolutionfoundation.com.br"
+    },
+    {
       "id": "release-0-0-3",
       "title": "What is new in 0.0.3",
       "body": "What an agent writes appears while you watch it. An issue, its comments and its specs refresh as the files change, instead of only when you close the page and open it again.",
