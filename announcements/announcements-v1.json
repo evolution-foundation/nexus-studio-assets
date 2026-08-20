@@ -2,6 +2,15 @@
   "version": 1,
   "announcements": [
     {
+      "id": "release-0-0-6",
+      "title": "What is new in 0.0.6",
+      "body": "The dashboard says how long the work actually takes: the execution time this project has run, and how long one issue takes as a median with the count it came from. A conversation with an agent floats over whatever screen you are on, so you can ask the PM something while reading the board.",
+      "published": "2026-08-21",
+      "priority": 93,
+      "minVersion": "0.0.6",
+      "link": "https://nexus.evolutionfoundation.com.br"
+    },
+    {
       "id": "release-0-0-5",
       "title": "What is new in 0.0.5",
       "body": "Two issues can be worked at once without the app taking your folder. Every issue gets a checkout of its own, the project folder stays on the main line, and a card cannot reach Done with its code still sitting on a branch nobody merged.",
