@@ -2,6 +2,15 @@
   "version": 1,
   "announcements": [
     {
+      "id": "release-0-0-8",
+      "title": "What is new in 0.0.8",
+      "body": "An agent that hands work to a subagent is no longer cut off mid-task: the run waits, says so, and only offers the next step when the work is really done. The board keeps its scroll while agents write, long questions fit the window, the quick path ends with the same one-click exit as every other issue, and one machine-wide default picks the engine and model for every agent.",
+      "published": "2026-08-21",
+      "priority": 95,
+      "minVersion": "0.0.8",
+      "link": "https://nexus.evolutionfoundation.com.br"
+    },
+    {
       "id": "release-0-0-7",
       "title": "What is new in 0.0.7",
       "body": "Nothing freezes the window any more: every command works off the main thread, the board opens at once, commits run in the background, and each screen answers the click on the same frame with a quiet placeholder for what it has not read. Codex runs are first-class: the board follows them, their questions arrive as buttons, and messages carry clocks.",
