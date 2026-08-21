@@ -2,6 +2,15 @@
   "version": 1,
   "announcements": [
     {
+      "id": "release-0-0-7",
+      "title": "What is new in 0.0.7",
+      "body": "Nothing freezes the window any more: every command works off the main thread, the board opens at once, commits run in the background, and each screen answers the click on the same frame with a quiet placeholder for what it has not read. Codex runs are first-class: the board follows them, their questions arrive as buttons, and messages carry clocks.",
+      "published": "2026-08-21",
+      "priority": 94,
+      "minVersion": "0.0.7",
+      "link": "https://nexus.evolutionfoundation.com.br"
+    },
+    {
       "id": "release-0-0-6",
       "title": "What is new in 0.0.6",
       "body": "The dashboard says how long the work actually takes: the execution time this project has run, and how long one issue takes as a median with the count it came from. A conversation with an agent floats over whatever screen you are on, so you can ask the PM something while reading the board.",
