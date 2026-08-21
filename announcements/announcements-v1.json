@@ -2,6 +2,15 @@
   "version": 1,
   "announcements": [
     {
+      "id": "release-0-0-9",
+      "title": "What is new in 0.0.9",
+      "body": "Claude Code and Codex can now take over from each other without losing the work already discussed, and a sprint can keep moving under a visible steward while Studio alone enforces its board and merge gates.",
+      "published": "2026-08-21",
+      "priority": 96,
+      "minVersion": "0.0.9",
+      "link": "https://nexus.evolutionfoundation.com.br"
+    },
+    {
       "id": "release-0-0-8",
       "title": "What is new in 0.0.8",
       "body": "An agent that hands work to a subagent is no longer cut off mid-task: the run waits, says so, and only offers the next step when the work is really done. The board keeps its scroll while agents write, long questions fit the window, the quick path ends with the same one-click exit as every other issue, and one machine-wide default picks the engine and model for every agent.",
